@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add your other dimensions here -->
+
+    <!-- Example dimension for fab_margin -->
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

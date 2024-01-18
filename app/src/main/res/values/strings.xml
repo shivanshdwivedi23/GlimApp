@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glim App</string>
+    <string name="top_headlines" translatable="false">Top Stories</string>
+    <string name="browse" translatable="false">Browse</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="save" translatable="false">Read later</string>
+    <string name="internet_warming" translatable="false">Oops you are not connected to Internet!</string>
+    <string name="news_placeholder" translatable="false">no one should practice any kind of work unless he derives some benefit from it.</string>
+
+</resources>
