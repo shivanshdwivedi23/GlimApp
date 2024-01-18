@@ -1,5 +1,7 @@
 # GlimApp
-Overview: GlimApp, an Android news application built with Kotlin, brings the latest headlines to your fingertips, ensuring you’re always in the loop.
+Overview: GlimApp, an Android news application built with Kotlin, 
+brings the latest headlines to your fingertips, 
+ensuring you’re always in the loop.
 Features:
 Categorized News: Explore news stories in various categories to suit your interests.
 Share the News: Found something interesting? Share it with your friends directly from the app.
